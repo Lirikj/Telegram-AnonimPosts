@@ -26,7 +26,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Lirikj/anonimka.git
+git clone https://github.com/Lirikj/anonimka.git](https://github.com/Lirikj/Telegram-AnonimPosts/
 cd anonimka
 ```
 
